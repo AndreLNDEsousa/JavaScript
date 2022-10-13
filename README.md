@@ -1,6 +1,6 @@
 ![javascript_vertical_logo_icon_168606](https://user-images.githubusercontent.com/87583186/195652036-930eeedd-0ddd-43a1-834b-1566d5f97511.png)
 
-Estudo de javascript "Curso em video".
+Curso de linguagem JavaScript, voltado para iniciantes e para quem quiser aprender mais sobre ECMAScript, a versão padronizada do JS. Em um curso patrocinado pelo Google, o professor Gustavo Guanabara vai ensinar o conteúdo básico em 6 módulos que vão desde o conhecimento da linguagem até o uso de funções.
 
 ## 1 Aula
  - Introdução – JavaScript Moderno
